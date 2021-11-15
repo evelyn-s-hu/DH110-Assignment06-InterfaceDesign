@@ -46,6 +46,6 @@ When designing user interfaces, it's always import to keep accessibility in mind
 ![Screencap of contrast check 5](contrast5.PNG) ![Instance of contrast check 5](contrastcheck5.PNG)  
 
 ### 4. User Impression
-An audio recording of a user's first impression can be found [here](LINK HERE).  
+An audio recording of a user's first impression can be found [here](https://drive.google.com/file/d/1fwESGHlQuc5o80iq08KoW-Fscljf5kuM/view?usp=sharing).  
 
-The user commented that the  
+Overall, the user enjoyed the minimalistic design that I tried my best to employ, which made me very happy. I asked my user about how she felt regarding the color scheme, which I worried was too simplistic, but she commented that she liked it the way that it is. She also noticed that the colors were picked from the Department of Ecology logo, and thought that it was neat and cohesive. The user did comment that the URLs displayed below each regulation could be removed to decrease clutter on the interface. 
