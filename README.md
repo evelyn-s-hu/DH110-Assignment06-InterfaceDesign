@@ -26,10 +26,11 @@ Dark Mode
 ### 2. System Design
 ![Screencap of system design](SystemDesign.PNG)
 ### 3. Accessibility
-![Screencap of contrast check 1](contrast1.PNG) 
-![Screencap of contrast check 2](contrast2.PNG) 
-![Screencap of contrast check 3](contrast3.PNG) 
-
+![Screencap of contrast check 1](contrast1.PNG) ![Instance of contrast check 1](contrastcheck1.png)  
+![Screencap of contrast check 2](contrast2.PNG) ![Instance of contrast check 2](contrastcheck2.png)  
+![Screencap of contrast check 3](contrast3.PNG) ![Instance of contrast check 3](contrastcheck3.PNG)  
+![Screencap of contrast check 4](contrast4.PNG) ![Instance of contrast check 4](contrastcheck4.PNG)  
+![Screencap of contrast check 5](contrast5.PNG) ![Instance of contrast check 5](contrastcheck5.PNG)  
 ### 4. User Impression
 
 ## Conclusion
