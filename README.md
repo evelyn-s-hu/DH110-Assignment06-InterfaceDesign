@@ -11,20 +11,20 @@
 
 ## Design
 Light Mode  
-![Screencap of UI design in light mode 1](UI light 1.PNG)  
-![Screencap of UI design in light mode 2](UI light 2.PNG)  
-![Screencap of UI design in light mode 3](UI light 3.PNG)  
+![Screencap of UI design in light mode 1](UIlight1.PNG)  
+![Screencap of UI design in light mode 2](UIlight2.PNG)  
+![Screencap of UI design in light mode 3](UIlight3.PNG)  
 
 Dark Mode  
-![Screencap of UI design in dark mode 1](UI dark 1.PNG)  
-![Screencap of UI design in dark mode 2](UI dark 2.PNG)  
-![Screencap of UI design in dark mode 3](UI dark 3.PNG)  
+![Screencap of UI design in dark mode 1](UIdark1.PNG)  
+![Screencap of UI design in dark mode 2](UIdark2.PNG)  
+![Screencap of UI design in dark mode 3](UIdark3.PNG)  
 
 ### 1. Layout
 ![Screencap of grids used to ](Grids.PNG)
 
 ### 2. System Design
-![Screencap of system design](System Design.PNG)
+![Screencap of system design](SystemDesign.PNG)
 ### 3. Accessibility
 
 ### 4. User Impression
