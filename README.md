@@ -35,7 +35,7 @@ When choosing the typeset for my system design, I wanted to choose something as 
 For color scheme, I took inspiration from the original website and chose to use the navy blue as a key color to maintain consistency with the original website. I chose to maintain a minimalistic color scheme so as not to overwhelm the users, but now I feel that it may be a little bit *too* bland. However, I was unsure how to incorporate more colors into the design without making the overall look seem too busy.  
 
 For all buttons present in the user interface, I used a corner roundness of 35 to maintain consistency.  
-![Screencap of system design](SystemDesign.PNG)
+![Screencap of system design](SystemDesign1.PNG)
 
 ### 3. Accessibility
 When designing user interfaces, it's always import to keep accessibility in mind. As my color scheme was very simple and minimalistic, I was concerned about not passing contrast checks when designing the interface. Therefore, I tested contrast using the Stark plugin in Figma, and was able to confirm that the colors I chose had sufficient contrast. I also had to ensure that both dark and light modes followed the rule of having enough contrast while still maintaining a cohesive color scheme, so I had to adjust certain colors when designing dark mode from the already existing light mode. Below are screencaps of contrast checks, along with an instance where it appears in the wireframes.  
