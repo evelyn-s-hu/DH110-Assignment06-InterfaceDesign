@@ -46,5 +46,6 @@ When designing user interfaces, it's always import to keep accessibility in mind
 ![Screencap of contrast check 5](contrast5.PNG) ![Instance of contrast check 5](contrastcheck5.PNG)  
 
 ### 4. User Impression
+An audio recording of a user's first impression can be found [here](LINK HERE).  
 
-## Conclusion
+The user commented that the 
