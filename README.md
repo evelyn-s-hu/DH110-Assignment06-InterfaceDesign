@@ -1,1 +1,32 @@
-# DH110-Assignment06-InterfaceDesign
+# Assignment 06: Interface Design
+**Author:** Evelyn Hu  
+**Course:** DH110 User Interface and Design  
+**Description:** After constructing low-fidelity prototypes that model implementations of suggested features for the Department of Washington Ecology website, I have now created wireframes on Figma. These wireframes are a draft of how the finished implementation may appear on the real website.
+
+## Summary
+
+## Graphic Interface
+
+## Wireflow
+
+## Design
+Light Mode  
+![Screencap of UI design in light mode 1](UI light 1.PNG)  
+![Screencap of UI design in light mode 2](UI light 2.PNG)  
+![Screencap of UI design in light mode 3](UI light 3.PNG)  
+
+Dark Mode  
+![Screencap of UI design in dark mode 1](UI dark 1.PNG)  
+![Screencap of UI design in dark mode 2](UI dark 2.PNG)  
+![Screencap of UI design in dark mode 3](UI dark 3.PNG)  
+
+### 1. Layout
+![Screencap of grids used to ](Grids.PNG)
+
+### 2. System Design
+![Screencap of system design](System Design.PNG)
+### 3. Accessibility
+
+### 4. User Impression
+
+## Conclusion
