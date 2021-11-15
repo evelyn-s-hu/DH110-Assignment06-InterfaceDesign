@@ -48,4 +48,4 @@ When designing user interfaces, it's always import to keep accessibility in mind
 ### 4. User Impression
 An audio recording of a user's first impression can be found [here](LINK HERE).  
 
-The user commented that the 
+The user commented that the  
